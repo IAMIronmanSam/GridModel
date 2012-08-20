@@ -14,7 +14,7 @@
     <Resource Language="x-generate" />
   </Resources>
   <Applications>
-    <Application Id="App" StartPage="Home.html">
+    <Application Id="App" StartPage="pages\default.html">
       <VisualElements DisplayName="GridModel" Logo="images\logo.png" SmallLogo="images\smalllogo.png" Description="GridModel" ForegroundText="light" BackgroundColor="#464646">
         <DefaultTile ShowName="allLogos" />
         <SplashScreen Image="images\splashscreen.png" />
